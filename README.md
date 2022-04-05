@@ -1,20 +1,20 @@
-# Vampyric [X](http://link-to-x.com)
+# Vampyric [GNU Emacs](https://www.gnu.org/software/emacs/)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [GNU Emacs](https://www.gnu.org/software/emacs/).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-Insert your instructions on how to get your theme up and running here.
+
 
 ## Team
 
 This theme maintained by:
 
-[![RaphGL](https://github.com/RaphGL.png?size=100)](https://github.com/RaphGL) |
+[![Uiyx](https://github.com/Uiyx.png?size=100)](https://github.com/Uiyx) |
 --- |
-[RaphGL](https://github.com/RaphGL) |
+[Uiyx](https://github.com/Uiyx) |
 
 ## License
 
