@@ -4,7 +4,7 @@
 
 ;; Version: 1.0.1
 ;; Package-Requires: ((emacs "25.1"))
-;; URL: https://github.com/vampyricdark/emacs
+;; URL: https://github.com/VampyricDark/emacs
 
 ;;; Commentary:
 
