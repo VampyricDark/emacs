@@ -8,7 +8,7 @@
 
 Download the theme
 
-`wget https://raw.githubusercontent.com/VampyricDark/emacs/main/VampyricDark-theme.el`
+`wget https://raw.githubusercontent.com/VampyricDark/emacs/main/vampyricdark-theme.el`
 
 Install the theme (run this inside Emacs)
 
@@ -16,7 +16,7 @@ Install the theme (run this inside Emacs)
 
 Load the theme (run this inside Emacs)
 
-`M-x load-theme VampyricDark`
+`M-x load-theme vampyricdark`
 
 ## Team
 
