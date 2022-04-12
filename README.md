@@ -5,7 +5,7 @@
 ![Screenshot](./screenshot.png)
 
 ## Install
-If you are using Melpa, you can install vampyric-dark like any other package.
+If you are using Melpa, you can install vampyricdark like any other package.
 
 `M-x package-install vampyricdark-theme`
 
