@@ -5,14 +5,9 @@
 ![Screenshot](./screenshot.png)
 
 ## Install
+If you are using Melpa, you can install vampyric-dark like any other package.
 
-Download the theme
-
-`wget https://raw.githubusercontent.com/VampyricDark/emacs/main/vampyricdark-theme.el`
-
-Install the theme (run this inside Emacs)
-
-`M-x package-install path/to/VampyricDark-theme.el`
+`M-x package-install vampyricdark-theme`
 
 Load the theme (run this inside Emacs)
 
